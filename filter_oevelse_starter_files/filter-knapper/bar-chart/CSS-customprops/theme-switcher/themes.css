@@ -1,0 +1,14 @@
+[date-theme="dark"] {
+  --bg: blue;
+  --color: white;
+}
+
+[data-theme="light"] {
+  --bg: white;
+  color: blue;
+}
+
+[data-theme="hawaii"] {
+  --bg: pink;
+  --color: yellow;
+}
